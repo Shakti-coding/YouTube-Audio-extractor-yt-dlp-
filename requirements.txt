@@ -1,0 +1,5 @@
+flask
+gunicorn
+werkzeug
+yt-dlp
+ffmpeg-python
